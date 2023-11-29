@@ -37,7 +37,7 @@ img {
 }
 
 p {
-    padding: 0 0 20px;
+    padding: 0 0 15px;
 }
 
 hr {
@@ -48,16 +48,12 @@ hr {
     height: 1px;
 }
 
-span { 
-    padding: 10px 0 0;
-}
-
 .card {
     width: 368px;
     height: auto;
     background-color: #FFFFFF;
     padding: 16px 16px 20px;
-    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    box-shadow: 14px 20px 32px -19px rgba(0,0,0,0.2);
     border-radius: 11px;
 }
 
